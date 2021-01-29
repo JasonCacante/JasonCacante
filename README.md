@@ -15,5 +15,5 @@
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JasonCacante&show_icons=true&theme=radical)](https://github.com/JasonCacante/JasonCacante)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonCacante)](https://github.com/JasonCacante/JasonCacante)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonCacante&repo=First_web.github.io&show_owner=JasonCacante&bg_color=#00008b)](https://github.com/JasonCacante/JasonCacante)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonCacante&repo=First_web.github.io&show_owner=JasonCacante&bg_color=#00008b)](https://github.com/JasonCacante/First_web.github.io)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JasonCacante)](https://github.com/JasonCacante/JasonCacante)
