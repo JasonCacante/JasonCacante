@@ -21,9 +21,12 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## CONTACT
+## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&)](mailto:jason.cacante@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JasonCacante)
+
+## Social
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JasonCacante)
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JasonCacante&show_icons=true&theme=radical)](https://github.com/JasonCacante/JasonCacante)
