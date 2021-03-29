@@ -1,8 +1,6 @@
 ## Hola, yo soy Jason Cacante G. 👋 
 ### Soy un desarrollador y analista de sistemas de información. :smile:
-<!--
-**JasonCacante/JasonCacante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 - 🔭 Estoy trabajando en dos proyectos personales desarrollados en Java y Python.
 - 🌱 Profundizo en Machine Learning, Python (Flask y Django), Java, y JavaScript.
 - 👯 Amaría colaborar en proyectos escalables enfocados en la nube (aws preferiblemente).
